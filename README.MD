@@ -31,3 +31,5 @@ npm test
 npm i swagger-jsdoc swagger-ui-express
 
 https://swagger.io/specification/#infoObject
+
+http://localhost:1234/swagger/
